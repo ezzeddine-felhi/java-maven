@@ -32,3 +32,4 @@ spec:
     - protocol: TCP
       port: 4080
       targetPort: 4080
+      type: NodePort
